@@ -60,6 +60,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KUD2IP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUD2IP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
 </div>
+<div align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/675b475eecc889bb0d47dadd?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
 
 ---
