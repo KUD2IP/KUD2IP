@@ -59,6 +59,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KUD2IP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KUD2IP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
   <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUD2IP&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt=""/>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/perfectInt/perfectInt/blob/output/github-contribution-grid-snake.svg" class=""><img src="https://github.com/perfectInt/perfectInt/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
+
 </div>
 
 
